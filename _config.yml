@@ -65,6 +65,7 @@ pagination_dir: page
 ## Themes: http://hexo.io/themes/
 theme: next
 
+avatar: https://avatars2.githubusercontent.com/u/5756247?v=3&amp;s=460
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
