@@ -1,6 +1,7 @@
 title: Javascript之数据类型
 date: 2016-01-10 23:14:26
-tags: Javascript
+tags: 
+- Javascript
 ---
 Javascript中有5种基本数据类型Undefined, Null, Boolean, Number, String和一种复杂数据类型Object.
 
@@ -38,7 +39,7 @@ Boolean类型有两个值，true和false。其他所有类型的值都可以转�
 | Undefined  |                 | undefined	 |
 
 
-###Number
+### Number
 Number包括整数和浮点数。
  
 除十进制外还支持八进制和十六进制
