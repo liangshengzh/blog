@@ -73,6 +73,10 @@ deploy:
   repo: https://github.com/liangshengzh/liangshengzh.github.io.git
   branch: master
   message: update blog
+  type: git
+  repo: https://git.coding.net/liangsheng/liangsheng.git
+  branch: coding-pages
+  message: update blog
 
 duoshuo:
   enable: true
