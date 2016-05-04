@@ -1,5 +1,6 @@
 title: Mac OS创建的用户在登陆界面中无法显示
 date: 2016-03-02 22:04:30
+categories: OS
 tags:
 - Mac OS
 ---
