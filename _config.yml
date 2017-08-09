@@ -69,23 +69,21 @@ avatar: https://avatars2.githubusercontent.com/u/5756247?v=3&amp;s=460
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: https://github.com/liangshengzh/liangshengzh.github.io.git
-  branch: master
-  message: update blog
+  # type: git
+  # repo: https://github.com/liangshengzh/liangshengzh.github.io.git
+  # branch: master
+  # message: update blog
   type: git
   repo: https://git.coding.net/liangsheng/liangsheng.git
   branch: coding-pages
   message: update blog
 
-duoshuo:
-  enable: true
-  shortname: liangsheng
+
 feed:
   type: atom
   path: atom.xml
   limit: 20
   hub:
 
-baidu_analytics: 824e94524d8bf3fe0445fa3dac6dd1d3
+baidu_analytics: 388c9fcc165f8f8eafc71ffa302ca371
 baidushare: true
